@@ -1,0 +1,2 @@
+C:\Users\dev\source\repos\Lesson 10 OOP\Array\Debug\Lesson 5.exe
+C:\Users\dev\source\repos\Lesson 10 OOP\Array\Debug\Lesson 5.pdb
